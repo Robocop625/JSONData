@@ -1,11 +1,11 @@
-[ 
+ 
   {"card":
     {
       "id": 6,
       "name": "Holy Crap it worked",
       "link": "https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs",
       "imageUrl": "https://drive.google.com/open?id=1GhzPw5otVVDCNGGh6-duCIuqgiyrMuiM",
-      "number_of_lessons": 47
+      "title": "The Goddamn Title
     }
   }
-]
+
