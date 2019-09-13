@@ -1,8 +1,22 @@
  
  [
      {
-      "id": 6,
+      "id": 1,
       "name": "Holy Crap it worked",
+      "link": "https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs",
+      "imageUrl": "https://drive.google.com/open?id=1GhzPw5otVVDCNGGh6-duCIuqgiyrMuiM",
+      "title": "The Goddamn Title"
+    },
+   {
+      "id": 2,
+      "name": "Imma monster on these hoes",
+      "link": "https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs",
+      "imageUrl": "https://drive.google.com/open?id=1GhzPw5otVVDCNGGh6-duCIuqgiyrMuiM",
+      "title": "The Goddamn Title"
+    },
+   {
+      "id": 3,
+      "name": "Big Shit Popping",
       "link": "https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs",
       "imageUrl": "https://drive.google.com/open?id=1GhzPw5otVVDCNGGh6-duCIuqgiyrMuiM",
       "title": "The Goddamn Title"
